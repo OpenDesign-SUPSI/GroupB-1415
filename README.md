@@ -3,12 +3,21 @@ GroupB-1415
 
 The repository for the project of Group B (Year 2014-2015)
 
-===
+---
 
-<strong>Group members:</strong>
-<ul>
-<li>Erik Bio</li>
-<li>Vrinda Da Sacco</li>
-<li>Soyeon Hwang</li>
-<li>Riccardo Madini</li>
-</ul>
+## Group members: ##
+- Erik Bio
+- Vrinda Da Sacco
+- Soyeon Hwang
+- Riccardo Madini
+
+## Course: ##
+2.2 Design with the User: from User-Centered Design to Open Design
+
+## Teacher: ##
+Massimo Menichinelli
+
+---
+
+## Description: ##
+This project is about...
