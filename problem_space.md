@@ -14,7 +14,7 @@ There is one thing all these floor electric outlets has in common :
 - Thus, people stumbled upon it frequently.
 
 Indeed, this 'tripping hazard', most prevalent in the office setting, is common and dangerous.
-<a href = 'https://www.nonprofitrisk.org/tools/workplace-safety/public-sector/topics/el/office-ps.htm'>Workplace-safety kit</a> says  Floor-mounted outlets should be carefully placed to prevent tripping hazards.
+<a href = 'https://www.nonprofitrisk.org/tools/workplace-safety/public-sector/topics/el/office-ps.htm'>Workplace-safety kit</a> and many electricity safety rules mention that floor-mounted outlets should be carefully placed to prevent tripping hazards.
 
 
 </html>
